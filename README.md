@@ -1,5 +1,3 @@
 # Data Wrangling with SQL 
 
-This repository contains classwork in SQL: 
-
-5 challenges I completed to validate the class. 
+This repository contains 5 SQL challenges completed for a SQL class.
